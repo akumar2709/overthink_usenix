@@ -137,7 +137,7 @@ API keys from `.env`. It is imported by `context_agnostic_hf.py`.
 If you add new providers, keep the `provider` names in `context_agnostic_hf.py`
 in sync with the wrapper functions in `utils.py`.
 
-
+## Coding Agent Harness and Images
 
 Harnesses and experiment assets for the OVERTHINK MDP-decoy overthinking
 experiments.
